@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/865733762451172557/aa4fd33d2e5d4a019abda359230668a7/artifacts
+end_time: 1747120089467
+entry_point_name: ''
+experiment_id: '865733762451172557'
+lifecycle_stage: active
+run_id: aa4fd33d2e5d4a019abda359230668a7
+run_name: KNeighborsClassifier
+run_uuid: aa4fd33d2e5d4a019abda359230668a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747120081743
+status: 3
+tags: []
+user_id: saipr

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/606423844435022130/d866ebefe40e4a1a98de36dae943762e/artifacts
+deleted_time: 1747119705651
+end_time: 1747119096486
+entry_point_name: ''
+experiment_id: '606423844435022130'
+lifecycle_stage: deleted
+run_id: d866ebefe40e4a1a98de36dae943762e
+run_name: grandiose-grouse-796
+run_uuid: d866ebefe40e4a1a98de36dae943762e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747119067624
+status: 3
+tags: []
+user_id: saipr

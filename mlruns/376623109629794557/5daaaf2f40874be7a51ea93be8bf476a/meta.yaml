@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376623109629794557/5daaaf2f40874be7a51ea93be8bf476a/artifacts
+end_time: 1747119787674
+entry_point_name: ''
+experiment_id: '376623109629794557'
+lifecycle_stage: active
+run_id: 5daaaf2f40874be7a51ea93be8bf476a
+run_name: LogisticRegression
+run_uuid: 5daaaf2f40874be7a51ea93be8bf476a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747119778850
+status: 3
+tags: []
+user_id: saipr

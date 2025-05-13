@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/606423844435022130
+creation_time: 1747119067016
+experiment_id: '606423844435022130'
+last_update_time: 1747119705651
+lifecycle_stage: deleted
+name: Rainfall_Prediction_Experiment
+tags: {}

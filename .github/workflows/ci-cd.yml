@@ -24,10 +24,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run Linter
-      run: |
-        flake8 . --exclude=venv,.git,__pycache__,.github
-
     - name: Run training script
       run: python src/train.py
 

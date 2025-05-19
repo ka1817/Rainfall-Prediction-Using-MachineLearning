@@ -5,10 +5,8 @@ import joblib
 import numpy as np
 import os
 
-# Create FastAPI app
 app = FastAPI(title="Rainfall Prediction API")
 
-# Define input schema
 class RainfallInput(BaseModel):
     temparature: float
     dewpoint: float
@@ -17,7 +15,6 @@ class RainfallInput(BaseModel):
     sunshine: float
     windspeed: float
 
-# Load the best model
 model_path = os.path.join("models", "best_model.pkl")
 best_model = joblib.load(model_path)
 
